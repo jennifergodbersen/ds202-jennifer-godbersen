@@ -1,7 +1,7 @@
 # ds202-jennifer-godbersen
 ode to an academic advisor
 
-crappy
+- crappy
   - the weather ! 
 
 - happy
